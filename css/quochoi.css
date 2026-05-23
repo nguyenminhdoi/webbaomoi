@@ -1,0 +1,41 @@
+.khungngoai{
+    width: 628px;
+    height: 448px;
+}
+.khunganh{
+    width: 628px;
+    height: 344px;
+    overflow: hidden;
+}
+.khunganh img{
+    width: 628px;
+    transition: 1s;
+}
+.khunganh img:hover{
+    transform: scale(2);
+    transition: 1s;
+}
+.khungngoai a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
+.khungngoai a:hover{
+    color: red;
+}
+.lienquan a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+.lienquan p{
+    color: black;
+    font-size: 14px;
+}
+.lienquan{
+    display: flex;
+    gap: 20px;
+}

@@ -1,0 +1,23 @@
+article{
+    width: 200px;
+    height: 284px;
+    margin-right: 15px;
+    float: left;
+}
+.anh{
+    width: 200px;
+    height: 127px;
+    overflow: hidden;
+}
+.anh img{
+    width: 200px;
+    transition: 1s;
+}
+.anh img:hover{
+    transform: scale(1.5);
+    transition: 1s;
+}
+.khung{
+    width: 645px;
+
+}
